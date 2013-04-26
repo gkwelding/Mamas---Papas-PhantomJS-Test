@@ -3,7 +3,7 @@ Mamas & Papas PhantomJS Test
 Usage
 -----
 
-casperjs test.js --url="http://www.mamasandpapas.com"
+casperjs MP_Important_Links.js --url="http://www.mamasandpapas.com"
 
 About
 -----
